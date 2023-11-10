@@ -11,3 +11,10 @@
 ```bash
 python3 chat.py
 ```
+
+## Commiting to the project
+- Ill review any pull requests and merge them.
+- If you want to be a contributor, you are welcome.
+
+## Credits
+- [Brave](https://brave.com/)
