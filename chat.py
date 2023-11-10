@@ -3,7 +3,7 @@ import json
 import datetime
 
 class BraveChat:
-    def __init__(self, x_brave_key):
+    def __init__(self, x_brave_key = 'qztbjzBqJueQZLFkwTTJrieu8Vw3789u'):
             self.headers = {
                 "pragma": "no-cache",
                 "cache-control": "no-cache",
